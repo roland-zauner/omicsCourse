@@ -1,4 +1,4 @@
-iinstall.packages("openxlsx", dependencies = TRUE)
+install.packages("openxlsx", dependencies = TRUE)
 install.packages("ggpubr")
 install.packages("factoextra")
 install.packages("pheatmap")
